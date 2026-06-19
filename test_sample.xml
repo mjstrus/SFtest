@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JednostkaMala xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Naglowek>
+    <NazwaFirmy>ABACUS CENTRUM KSIĘGOWE SP. Z O.O.</NazwaFirmy>
+    <NIP>7461234567</NIP>
+    <REGON>432543210</REGON>
+    <KRS>0000123456</KRS>
+    <PKD>6920Z</PKD>
+    <OkresOd>2025-01-01</OkresOd>
+    <OkresDo>2025-12-31</OkresDo>
+    <DataSporzadzenia>2025-03-31</DataSporzadzenia>
+  </Naglowek>
+  <Bilans>
+    <AktywaRazem>500000.00</AktywaRazem>
+    <PasywaRazem>490000.00</PasywaRazem>
+    <ZyskStrataNetto>50000.00</ZyskStrataNetto>
+  </Bilans>
+  <RachunekZyskow>
+    <WynikFinansowyNetto>48000.00</WynikFinansowyNetto>
+  </RachunekZyskow>
+</JednostkaMala>
